@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "Your Name / Site Title"
+title                    : "                  "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Tan, Ruoxu (谭若虚)"
+  name             : "Tan, Ruoxu (谭若虚)"
   avatar           : "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"

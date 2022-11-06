@@ -14,7 +14,8 @@ I'm a postdoc at the [Department of Statistics and Actuarial Science](https://sa
 I'm broadly interested in developing statistical methodology in the fields including 
 * causal inference / missing data analysis; 
 * functional data analysis; 
-* manifold data analysis / manifold learning \
+* manifold data analysis / manifold learning 
+
 with applications to astronomical, biomedical and economic data.
 
 # Contact Information

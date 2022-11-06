@@ -10,14 +10,14 @@ redirect_from:
 
 I'm a postdoc at the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/index.php), the University of Hong Kong, hosted by Prof. [Guosheng Yin](https://saasweb.hku.hk/staff/gyin/web/index.html). In 2021, I obtained my PhD degree at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/), the University of Melbourne, supervised by Prof. [Aurore Delaigle](https://researchers.ms.unimelb.edu.au/~aurored/). I studied as an undergraduate at Jilin University during 2012 to 2016.
 
-## Research Interests
+# Research Interests
 I'm broadly interested in developing statistical methodology in the fields including 
 * causal inference / missing data analysis; 
 * functional data analysis; 
 * manifold data analysis / manifold learning \
 with applications to astronomical, biomedical and economic data.
 
-## Contact Information
+# Contact Information
 * Email: ruoxut@hku.hk
 * Department of Statistics and Actuarial Science
 * Run Run Shaw Building

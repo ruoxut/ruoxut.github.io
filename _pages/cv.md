@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
  
+You can find my CV [here](https://ruoxut.github.io/files/CV_for_Github.pdf).

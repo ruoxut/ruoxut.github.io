@@ -31,6 +31,6 @@ author_profile: true
 
 3. Tan, R.\* (2022+). Nonparametric regression with nonignorable missing covariates and outcomes using bounded inverse weighting.
 
-## Other work
+## Other Works
 
 1. Tan, R.\* (2021). Nonparametric techniques with missing data. *PhD Thesis*. [[URL]](http://hdl.handle.net/11343/276263)

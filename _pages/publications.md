@@ -19,17 +19,14 @@ author_profile: true
 
 ## Journal Articles
 
-1. Tan, R.\*, Zang, Y. and Yin, G. (2022+). Nonlinear dimension reduction for functional data with application to clustering. *Statistica Sinica*, to appear. [[PDF]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0393_na.pdf) [[Code]](https://github.com/ruoxut/FunctionalManifoldLearning)
-
-2. Delaigle, A. and Tan, R.\* (2022+). Group testing regression analysis with missing data and imperfect tests. *Statistica Sinica*, to appear. [[PDF]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0382_na.pdf) [[Code]](https://github.com/ruoxut/GroupTestingMissingD)
+1. Delaigle, A. and Tan, R.\* (2023). Group testing regression analysis with covariates and specimens subject to missingness. *Statistics in Medicine*, 1--14. [[DOI]](http://doi.org/10.1002/sim.9640) [[Code]](https://github.com/ruoxut/GroupTestingBothMissing)
+2. Tan, R.\*, Zang, Y. and Yin, G. (2023+). Nonlinear dimension reduction for functional data with application to clustering. *Statistica Sinica*, to appear. [[PDF]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0393_na.pdf) [[Code]](https://github.com/ruoxut/FunctionalManifoldLearning)
+3. Delaigle, A. and Tan, R.\* (2023+). Group testing regression analysis with missing data and imperfect tests. *Statistica Sinica*, to appear. [[PDF]](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0382_na.pdf) [[Code]](https://github.com/ruoxut/GroupTestingMissingD)
 
 ## Submitted Papers
 
 1. Tan, R., Huang, W.\*, Zhang, Z. and Yin, G. (2022+). Causal effect of functional treatment. [[arXiv]](https://arxiv.org/abs/2210.00242)
-
-2. Delaigle, A. and Tan, R.\* (2022+). Group testing regression analysis with covariates and specimens subject to missingness.
-
-3. Tan, R.\* (2022+). Nonparametric regression with nonignorable missing covariates and outcomes using bounded inverse weighting.
+2. Tan, R.\* (2022+). Nonparametric regression with nonignorable missing covariates and outcomes using bounded inverse weighting.
 
 ## Other Works
 

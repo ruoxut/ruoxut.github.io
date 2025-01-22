@@ -19,7 +19,7 @@ author_profile: true
 
 ## Journal Articles
 1. Tan, R.\*, Zang, Y. and Yin, G. (2024). Nonlinear dimension reduction for functional data with application to clustering. *Statistica Sinica*, 34, 1391-1412. [[DOI]](https://doi.org/10.5705/ss.202021.0393) [[Code]](https://github.com/ruoxut/FunctionalManifoldLearning)
-2. 1. Delaigle, A. and Tan, R.\* (2024). Group testing regression analysis with missing data and imperfect tests. *Statistica Sinica*, 34, 201-228. [[DOI]](https://doi.org/10.5705/ss.202021.0382) [[Code]](https://github.com/ruoxut/GroupTestingMissingD)
+2. Delaigle, A. and Tan, R.\* (2024). Group testing regression analysis with missing data and imperfect tests. *Statistica Sinica*, 34, 201-228. [[DOI]](https://doi.org/10.5705/ss.202021.0382) [[Code]](https://github.com/ruoxut/GroupTestingMissingD)
 3. Tan, R.\* (2023). Nonparametric regression with nonignorable missing covariates and outcomes using bounded inverse weighting. *Journal of Nonparametric Statistics*, 35, 927-946. [[DOI]](https://doi.org/10.1080/10485252.2023.2215341) [[Code]](https://github.com/ruoxut/MissingBothXY)
 4. Delaigle, A. and Tan, R.\* (2023). Group testing regression analysis with covariates and specimens subject to missingness. *Statistics in Medicine*, 42, 731-744. [[DOI]](http://doi.org/10.1002/sim.9640) [[Code]](https://github.com/ruoxut/GroupTestingBothMissing)
 

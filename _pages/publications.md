@@ -30,7 +30,7 @@ author_profile: true
 1. Tan, R., Huang, W.\*, Zhang, Z. and Yin, G. (2024+). Causal effect of functional treatment. [[arXiv]](https://arxiv.org/abs/2210.00242)
 2. Tan, R.\* and Yin, G. (2024+). Model averaging for manifold learning.
 3. Gu, J., Tan, R.\* and Yin, G. (2024+). Delaunay weighted two-sample test for high-dimensional data by incorporating geometric information. [[arXiv]](https://arxiv.org/abs/2404.03198)
-4. Tan, R.\* and Zang, Y. (2024+). Supervised manifold learning for functional data. 
+4. Tan, R.\* and Zang, Y. (2024+). Supervised manifold learning for functional data. [[arXiv]](https://arxiv.org/pdf/2503.17943)
 
 ## Other Works
 

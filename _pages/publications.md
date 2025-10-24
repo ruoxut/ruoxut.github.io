@@ -28,7 +28,7 @@ author_profile: true
 
 ## Conference Proceedings
 
-1. Tan, R. and Yin, G.\* (2025) Ensemble Manifold Learning via Model Averaging. *ECAI 2025*, accepted. [[Code]](https://github.com/ruoxut/ModelAveManifd)
+1. Tan, R. and Yin, G.\* (2025) Ensemble Manifold Learning via Model Averaging. *ECAI 2025*, 413, 2738-2745. [[DOI]](https://dx.doi.org/10.3233/FAIA251128) [[Code]](https://github.com/ruoxut/ModelAveManifd)
 
 ## Submitted Papers
 

@@ -34,6 +34,8 @@ author_profile: true
 
 1. Gu, J., Tan, R.\* and Yin, G. (2024+). Delaunay weighted two-sample test for high-dimensional data by incorporating geometric information. [[arXiv]](https://arxiv.org/abs/2404.03198)
 
+2. Tan, R.\*, Jian, M. and Zang, Y. (2025+). Semi-supervised classification for functional data with application to astronomical spectra analysis. [[arXiv]](https://arxiv.org/abs/2603.29215) 
+
 ## Other Works
 
 1. Tan, R.\* (2021). Nonparametric techniques with missing data. *PhD Thesis*. [[URL]](http://hdl.handle.net/11343/276263)

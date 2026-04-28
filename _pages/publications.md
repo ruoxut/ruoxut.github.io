@@ -32,9 +32,11 @@ author_profile: true
 
 ## Submitted Papers
 
-1. Gu, J., Tan, R.\* and Yin, G. (2024+). Delaunay weighted two-sample test for high-dimensional data by incorporating geometric information. [[arXiv]](https://arxiv.org/abs/2404.03198)
+1. Tan, R.\* and Zang, Y. (2026+). High-dimensional semi-supervised classification via the Fermat distance. [[arXiv]](https://arxiv.org/abs/2604.23573)
 
-2. Tan, R.\*, Jian, M. and Zang, Y. (2025+). Semi-supervised classification for functional data with application to astronomical spectra analysis. [[arXiv]](https://arxiv.org/abs/2603.29215) 
+2. Tan, R.\*, Jian, M. and Zang, Y. (2026+). Semi-supervised classification for functional data with application to astronomical spectra analysis. [[arXiv]](https://arxiv.org/abs/2603.29215)
+
+3. Gu, J., Tan, R.\* and Yin, G. (2026+). Delaunay weighted two-sample test for high-dimensional data by incorporating geometric information. [[arXiv]](https://arxiv.org/abs/2404.03198) 
 
 ## Other Works
 

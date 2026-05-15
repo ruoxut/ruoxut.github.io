@@ -19,7 +19,7 @@ author_profile: true
 
 ## Journal Articles
 
-1. Tan, R.\* and Zang, Y. (2025+). Supervised manifold learning for functional data. *Journal of Computational and Graphical Statistics*, accepted. [[DOI]](https://doi.org/10.1080/10618600.2025.2576163) [[arXiv]](https://arxiv.org/abs/2503.17943) [[Code]](https://github.com/ruoxut/FunctionalManifoldLearning)
+1. Tan, R.\* and Zang, Y. (2026). Supervised manifold learning for functional data. *Journal of Computational and Graphical Statistics*, 35, 951-962. [[DOI]](https://doi.org/10.1080/10618600.2025.2576163) [[arXiv]](https://arxiv.org/abs/2503.17943) [[Code]](https://github.com/ruoxut/FunctionalManifoldLearning)
 2. Tan R., Huang W.\*, Zhang Z.\* and Yin G. (2025). Causal effect of functional treatment. *Journal of Machine Learning Research*, 26, 1-39. [[DOI]](https://jmlr.org/papers/v26/23-0381.html) [[arXiv]](https://arxiv.org/abs/2210.00242) [[Code]](https://github.com/ruoxut/FunctionalTreatment)
 3. Tan, R.\*, Zang, Y. and Yin, G. (2024). Nonlinear dimension reduction for functional data with application to clustering. *Statistica Sinica*, 34, 1391-1412. [[DOI]](https://doi.org/10.5705/ss.202021.0393) [[Code]](https://github.com/ruoxut/FunctionalManifoldLearning)
 4. Delaigle, A. and Tan, R.\* (2024). Group testing regression analysis with missing data and imperfect tests. *Statistica Sinica*, 34, 201-228. [[DOI]](https://doi.org/10.5705/ss.202021.0382) [[Code]](https://github.com/ruoxut/GroupTestingMissingD)
@@ -33,9 +33,7 @@ author_profile: true
 ## Submitted Papers
 
 1. Tan, R.\* and Zang, Y. (2026+). High-dimensional semi-supervised classification via the Fermat distance. [[arXiv]](https://arxiv.org/abs/2604.23573)
-
 2. Tan, R.\*, Jian, M. and Zang, Y. (2026+). Semi-supervised classification for functional data with application to astronomical spectra analysis. [[arXiv]](https://arxiv.org/abs/2603.29215)
-
 3. Gu, J., Tan, R.\* and Yin, G. (2024+). Delaunay weighted two-sample test for high-dimensional data by incorporating geometric information. [[arXiv]](https://arxiv.org/abs/2404.03198) 
 
 ## Other Works

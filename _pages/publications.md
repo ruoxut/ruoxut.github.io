@@ -32,7 +32,7 @@ author_profile: true
 
 ## Submitted Papers
 
-1. Li, K. and Tan, R.\* (2026+). Functional Causal discovery via conditional covariance ordering. [[arXiv]](https://arxiv.org/abs/2609.27256)
+1. Li, K. and Tan, R.\* (2026+). Functional causal discovery via conditional covariance ordering. [[arXiv]](https://arxiv.org/abs/2609.27256)
 2. Tan, R.\* and Zang, Y. (2026+). High-dimensional semi-supervised classification via the Fermat distance. [[arXiv]](https://arxiv.org/abs/2604.23573)
 3. Tan, R.\*, Jian, M. and Zang, Y. (2026+). Semi-supervised classification for functional data with application to astronomical spectra analysis. [[arXiv]](https://arxiv.org/abs/2603.29215)
 

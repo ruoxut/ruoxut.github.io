@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-(*\* denotes the corresponding author, $\dagger$ denotes equal contribution.*)
+(*\* denotes the corresponding author; $^\dagger$ denotes equal contribution.*)
 
 ## Journal Articles
 1. Gu, J., Tan, R.\* and Yin, G. (2027+). Delaunay weighted two-sample test for high-dimensional data by incorporating geometric information, *Statistica Sinica*, in press. [[DOI]](https://doi.org/10.5705/ss.202025.0280) [[arXiv]](https://arxiv.org/abs/2404.03198) [[Code]](https://github.com/GuJQ5/Delaunay-weighted-test)
@@ -32,7 +32,7 @@ author_profile: true
 
 ## Submitted Papers
 
-1. Li, T.$\dagger$, Li, Z.$\dagger$ and Tan, R.$\dagger$\* (2026+). Instrumental Transfer Learning for Solution Operators. [[arXiv]](https://arxiv.org/abs/2610.41262) [[Code]](https://github.com/zylipku/OpTrans)
+1. Li, T.$^\dagger$, Li, Z.$^\dagger$ and Tan, R.$^\dagger$\* (2026+). Instrumental Transfer Learning for Solution Operators. [[arXiv]](https://arxiv.org/abs/2610.41262) [[Code]](https://github.com/zylipku/OpTrans)
 2. Li, K. and Tan, R.\* (2026+). Functional causal discovery via conditional covariance ordering. [[arXiv]](https://arxiv.org/abs/2609.27256)
 3. Tan, R.\* and Zang, Y. (2026+). High-dimensional semi-supervised classification via the Fermat distance. [[arXiv]](https://arxiv.org/abs/2604.23573)
 4. Tan, R.\*, Jian, M. and Zang, Y. (2026+). Semi-supervised classification for functional data with application to astronomical spectra analysis. [[arXiv]](https://arxiv.org/abs/2603.29215)

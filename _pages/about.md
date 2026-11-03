@@ -14,7 +14,8 @@ I'm an assistant professor at the [School of Mathematical Sciences](https://math
 I'm broadly interested in developing statistical methodology in the fields including 
 * causal inference / missing data analysis; 
 * functional data analysis; 
-* manifold data analysis / manifold learning 
+* manifold data analysis / manifold learning;
+* distributional estimation / generative models;
 
 with applications to astronomical, biomedical and economic data.
 

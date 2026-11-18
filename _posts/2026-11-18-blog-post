@@ -5,5 +5,5 @@ tags:
   - Lecture notes
 ---
 
-[The slides](https://ruoxut.github.io/files/Kernels.pdf) are a breif introduction to two causal inference frameworks, where we emphasize that the key concepts
+[The slides](https://ruoxut.github.io/files/Intro_Causal_Eng.pdf) are a breif introduction to two causal inference frameworks, where we emphasize that the key concepts
 such as potential outcomes and interventional distributions are closely connected.

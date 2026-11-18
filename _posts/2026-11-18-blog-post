@@ -1,0 +1,9 @@
+---
+title: Introduction to Causal Inference
+date: 2026-11-18
+tags:
+  - Lecture notes
+---
+
+[The slides](https://ruoxut.github.io/files/Kernels.pdf) are a breif introduction to two causal inference frameworks, where we emphasize that the key concepts
+such as potential outcomes and interventional distributions are closely connected.
